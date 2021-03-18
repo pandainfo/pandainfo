@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+![pandainfo](https://socialify.git.ci/pandainfo/pandainfo/image?description=1&descriptionEditable=%F0%9F%90%BC%20GitHub%20profile%20of%20Association%20Panda&font=Bitter&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48161788%3Fs%3D200%26v%3D4&pattern=Diagonal%20Stripes&theme=Light)
 
-You can use the [editor on GitHub](https://github.com/pandainfo/pandainfo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 👋Hi, welcome to our GitHub profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pandainfo/pandainfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🐼 We're [panda! 🐾 Association for the promotion of critical literary discourse](https://github.com/pandainfo)
+- 📫 We're based at the awesome [Librería Utopía ★ radical bookstore vienna](https://radicalbookstore.com/).
+- 🔭 We're currently working on the [Panda E-commerce Platform](https://pandainfo.github.io/community/).
+- 👯 We're looking to collaborate on several upstream projects and wish you'd join us in building Panda.
+- 💬 Ask us everything about our plans regarding Panda or other projects.
